@@ -5,4 +5,4 @@ Git tracks changes.
 My stupid boss still prefers SVN.
 Creating a new brandsaddsd.
 sdads
-creating a new branch is quick and simple.
+creating a new branch is quick AND simple.
