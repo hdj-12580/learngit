@@ -4,6 +4,5 @@ Git is a very free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes.
 My stupid boss still prefers SVN.
-Creating a new brandsaddsd.
-sdads
+Creating a new brandsadd
 creating a new branch is quick and simple.
